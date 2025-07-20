@@ -3,21 +3,15 @@
 
 
 <a href="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-green?style=for-the-badge&logo=power-automate&logoColor=white">
-
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-green?style=for-the-badge&logo=power-automate&logoColor=white" alt="Open to Work"/>
-
 </a>
-
+  
 <a href="mailto:me@sommio.moe">
-
   <img src="https://img.shields.io/badge/Email-me@sommio.moe-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-
 </a>
-
+  
 <a href="https://github.com/sommio">
-
   <img src="https://img.shields.io/badge/GitHub-sommio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
 </a>
 
 <!-- <a href="[YOUR_LINKEDIN_URL]">
