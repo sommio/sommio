@@ -74,10 +74,6 @@ I am actively looking for a full-time position in the **Guangzhou** or **Foshan*
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -86,23 +82,6 @@ I am actively looking for a full-time position in the **Guangzhou** or **Foshan*
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-### 📈 My GitHub Stats
-
-
-
-Here are some of my stats on GitHub. I'm always learning and building new things!
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sommio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sommio's GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sommio&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-
-</p>
 
 
 
